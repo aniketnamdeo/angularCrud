@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angularCrud"
+  "defaultProject": "angularCrud",
+  "cli": {
+    "analytics": false
+  }
 }
